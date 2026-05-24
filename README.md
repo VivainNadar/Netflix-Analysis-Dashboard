@@ -72,9 +72,11 @@ This project demonstrates skills in:
 8.Storytelling with Data
 
 AUTHOR:
- VIVAIN MOSES NADAR
+
+  VIVAIN MOSES NADAR
      --Aspiring data analyst
-linkedin:www.linkedin.com/in/vivain-nadar-569584406
+ 
+ Connect with me on:www.linkedin.com/in/vivain-nadar-569584406
 
 
                                                NETFLIX ANALYSIS DASHBOARD   
