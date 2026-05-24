@@ -71,4 +71,4 @@ DAX Calculations
 Analytical Thinking
 Storytelling with Data
 
-![Dashboard Preview].()
+![Dashboard Preview].(https://github.com/VivainNadar/Netflix-Analysis-Dashboard/blob/main/Netflix%20analysis%20Dashboard.png)
