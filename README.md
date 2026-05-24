@@ -62,14 +62,13 @@ Skills Demonstrated
 
 This project demonstrates skills in:
 
-Data Cleaning
-Data Transformation
-Data Visualization
-Dashboard Designing
-Business Intelligence
-DAX Calculations
-Analytical Thinking
-Storytelling with Data
+1.Data Cleaning
+2.Data Transformation
+3.Data Visualization
+4.Dashboard Designing
+5.Business Intelligence
+6.DAX Calculations
+7.Analytical Thinking
+8.Storytelling with Data
 
-Image link:https://github.com/VivainNadar/Netflix-Analysis-Dashboard/blob/main/Netflix%20analysis%20Dashboard.png
 ![Dashboard Preview](https://github.com/VivainNadar/Netflix-Analysis-Dashboard/blob/main/Netflix%20analysis%20Dashboard.png)
