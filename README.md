@@ -71,4 +71,6 @@ This project demonstrates skills in:
 7.Analytical Thinking
 8.Storytelling with Data
 
+
+                                               NETFLIX ANALYSIS DASHBOARD   
 ![Dashboard Preview](https://github.com/VivainNadar/Netflix-Analysis-Dashboard/blob/main/Netflix%20analysis%20Dashboard.png)
