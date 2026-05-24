@@ -72,3 +72,4 @@ Analytical Thinking
 Storytelling with Data
 
 Image link:https://github.com/VivainNadar/Netflix-Analysis-Dashboard/blob/main/Netflix%20analysis%20Dashboard.png
+![Dashboard Preview](https://github.com/VivainNadar/Netflix-Analysis-Dashboard/blob/main/Netflix%20analysis%20Dashboard.png)
