@@ -76,7 +76,7 @@ AUTHOR:
   VIVAIN MOSES NADAR
      --Aspiring data analyst
  
- Connect with me on:www.linkedin.com/in/vivain-nadar-569584406
+ Connect with me on:www.linkedin.com/in/vivain-nadar
 
 
                                                NETFLIX ANALYSIS DASHBOARD   
